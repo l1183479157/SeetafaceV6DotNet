@@ -42,7 +42,7 @@ namespace SeetaFaceTest
             string gender = string.Empty;
             string eye_left = string.Empty;
             string eye_right = string.Empty;
-            if (aa.age == 0)
+            if (aa.gender == 1)
             {
                 gender = "女";
             }
