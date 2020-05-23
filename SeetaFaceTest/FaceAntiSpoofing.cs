@@ -35,8 +35,8 @@ namespace SeetaFaceTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string path = Application.StartupPath;
-            Bitmap Bitmap = new Bitmap(path + "\\timg.jpg");
+            //string path = Application.StartupPath;
+            Bitmap Bitmap = new Bitmap(path1);
             var sid = SeetaFace.bitmaptoImagedat(Bitmap);
             var result =SeetaFace.FaceAntiSpoofing(sid, 0);
             switch (result)
