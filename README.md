@@ -1,6 +1,7 @@
 1.说明  
   本文演示.net调用seefacev6各个接口实例，有不好的地方希望大家批评指正  
   seetafacev6项目地址https://github.com/seetafaceengine/SeetaFace6 
+  开发环境VS2017 Windows 64位
   
 2.接口功能说明  
  a）返回人脸矩形坐标（x,y,width,heigth）  
@@ -21,4 +22,6 @@ model下载地址在https://github.com/seetafaceengine/SeetaFace6
 3>将SeetaFaceTest\dll的BitmapToData.dll和Newtonsoft.Json.dll添加到SeetaFaceTest  
 项目引用  
 4>将SeetaFace\lib\x64下的所有dll添加到SeetaFaceTest\bin\Debug下  
-5>将SeetaFaceTest设置为启动项运行即可 
+5>将SeetaFaceTest设置为启动项运行即可     
+
+4.任何问题请联系邮箱z602145101@qq.com
