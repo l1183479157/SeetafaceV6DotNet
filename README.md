@@ -1,6 +1,6 @@
 1.说明  
   本文演示.net调用seefacev6各个接口实例，有不好的地方希望大家批评指正  
-  seetafacev6项目地址https://github.com/seetafaceengine/SeetaFace6 
+  seetafacev6项目地址https://github.com/seetafaceengine/SeetaFace6   
   开发环境VS2017 Windows 64位
   
 2.接口功能说明  
