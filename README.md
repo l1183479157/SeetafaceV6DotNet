@@ -1,5 +1,5 @@
 1.说明  
-  本文演示.net掉用seefacev6各个接口实例，有不好的地方希望大家批评指正  
+  本文演示.net调用seefacev6各个接口实例，有不好的地方希望大家批评指正  
   seetafacev6项目地址https://github.com/seetafaceengine/SeetaFace6 
   
 2.接口功能说明  
