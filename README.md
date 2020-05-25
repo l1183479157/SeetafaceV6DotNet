@@ -24,4 +24,5 @@ model下载地址在https://github.com/seetafaceengine/SeetaFace6
 4>将SeetaFace\lib\x64下的所有dll添加到SeetaFaceTest\bin\Debug下  
 5>将SeetaFaceTest设置为启动项运行即可     
 
-4.任何问题请联系邮箱z602145101@qq.com
+4.任何问题请联系邮箱z602145101@qq.com  
+ps:如果本文有幸帮助到了您，麻烦动动手指给个star吧！
